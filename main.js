@@ -77,7 +77,7 @@ UI_RemoveLayoutMenu = 1;	// removing 'Layout' menu from the header
 UI_MOTDAutoLogo = 1;		// [&] big channel logo inserted into MOTD
 UI_MOTDTabs = 1;		// [&] switchable MOTD tabs application for homepage-like channel header
 UI_MOTDDelete = 1;		// deleting previous MOTD after accepting/loading script
-UI_RulesBtn = 1;		// [&] button displaying channel rules
+UI_RulesBtn = 0;		// [&] button displaying channel rules
 UI_AttentionBar = 0;		// [&] imageboard-style attention bar (requires external application)
 UI_ChannelAnnouncement = 1;	// [&] additional custom channel announcement
 UI_FullTitleBar = 1;		// full-width video title bar
@@ -147,7 +147,7 @@ Favicon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
 
 MiniLogo_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
 
-ChannelName_Caption = 'CyTube Plus';
+ChannelName_Caption = 'OrangNitro';
 
 HeaderDropMenu_Title = 'Synch';
 
