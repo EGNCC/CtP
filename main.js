@@ -107,7 +107,7 @@ UI_EmotesBtn = 1;		// button displaying box with clickable chat emotes
 UI_GroupEmotes = 1;		// [&] emotes panel pagination, display limited number of emotes at one time
 				// [ REQUIRE: UI_EmotesBtn enabled ]
 UI_CommandsBtn = 1;		// button displaying modal window with chat commands help
-UI_ModPanel = 1;		// [&] panel with messages and help for moderators
+UI_ModPanel = 0;		// [&] panel with messages and help for moderators
 UI_CustomCaptions = 1;		// [&] custom captions for add, refresh, voteskip buttons, and welcome text
 UI_PlayerOptions = 1;		// [&] additional player options
 UI_TransformationBtns = 1;	// player transformation buttons
