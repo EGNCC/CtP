@@ -201,7 +201,7 @@ MOTDAutoLogo_Array = [
 ];
 
 MOTDTabs_Array = [
-['Home',	'Welcome to our channel!'],
+['Home',	'Welcome to OrangNitro Channel!'],
 ['Playlist',	'Playlist tab.<br /><br />We watched this, that and this.'],
 ['Schedule',	'Schedule:<br /><br /><ul><li>Monday: ...</li><li>Tuesday: ...</li><li>Wendesday: ...</li><li>Thursday: ...</li><li>Friday: ...</li><li>Saturday: ...</li><li>Sunday: ...</li></ul>'],
 ['Contact',	'Contact:<br /><br />Email - ...<br />Skype - ...'],
